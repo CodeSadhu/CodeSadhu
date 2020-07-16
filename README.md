@@ -8,6 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The animal in the Github Logo is an Octo-puss! Get it? :grinning:
 
+<img src = "https://github-readme-stats.vercel.app/api?username=codesadhu&&show_icons=true&title_color=ffffff&icon_color=FCD581&text_color=50B2C0&bg_color=201E1F">
+
 <!--
 **CodeSadhu/CodeSadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
