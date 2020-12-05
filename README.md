@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning Azure!
+- 🔭 I’m currently learning React!
 - 🌱 I’m currently a student of Computer Engineering studying at [SKNCOE, Pune](http://cms.sinhgad.edu/sinhgad_engineering_institutes/skncoe_vadgaon/institute_details.aspx). I'm passionate about Mobile App technologies, Cloud technologies and contributing docs when I'm free!
 - 🌱 I also dabble a bit in competitive coding. Here's my profiles: [CodeChef](https://www.codechef.com/users/codesadhu), [HackerRank](https://www.hackerrank.com/CodeSadhu), [HackerEarth](https://www.hackerearth.com/@patwardhanatharva6)
 - 💬 Ask me about App Development!
