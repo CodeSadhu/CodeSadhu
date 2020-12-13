@@ -4,7 +4,7 @@
 - 🌱 I’m currently a student of Computer Engineering studying at [SKNCOE, Pune](http://cms.sinhgad.edu/sinhgad_engineering_institutes/skncoe_vadgaon/institute_details.aspx). I'm passionate about Mobile App technologies, Cloud technologies and contributing docs when I'm free!
 - 🌱 I also dabble a bit in competitive coding. Here's my profiles: [CodeChef](https://www.codechef.com/users/codesadhu), [HackerRank](https://www.hackerrank.com/CodeSadhu), [HackerEarth](https://www.hackerearth.com/@patwardhanatharva6)
 - 💬 Ask me about App Development!
-- 📫 How to reach me: [Shoot a mail anytime!](patwardhanatharva6@gmail.com)
+- 📫 How to reach me: [Shoot a mail anytime!](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=patwardhanatharva6@gmail.com&su=SUBJECT&body=BODY&tf=1)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The animal in the Github Logo is an Octo-puss! Get it? :grinning:
 
