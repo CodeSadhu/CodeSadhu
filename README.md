@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently very much into Flutter!
-- 🌱 I’m currently a student of Computer Engineering studying at [SKNCOE, Pune](http://cms.sinhgad.edu/sinhgad_engineering_institutes/skncoe_vadgaon/institute_details.aspx). I'm passionate about Mobile App development, Cloud technologies and contributing docs when I'm free!
+- 🌱 I’m currently a working as a Software Engineer. I'm passionate about Mobile App development, Cloud technologies and contributing docs when I'm free!
 - 🌱 I also dabble a bit in competitive coding. Here's my profiles: [CodeChef](https://www.codechef.com/users/codesadhu), [HackerRank](https://www.hackerrank.com/CodeSadhu), [HackerEarth](https://www.hackerearth.com/@patwardhanatharva6)
 - 💬 Ask me about App Development!
 - 📫 How to reach me: [Shoot a mail anytime!](patwardhanatharva6@gmail.com)
