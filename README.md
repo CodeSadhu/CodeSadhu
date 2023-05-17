@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently very much into Flutter!
-- 🌱 I’m currently a working as a Software Engineer. I'm passionate about Mobile App development, Cloud technologies and contributing docs when I'm free!
+- 🌱 I’m currently a working as a Software Engineer. I'm passionate about Mobile App development, gaming and just about anything tech in general!
+- 🖋 I write articles in my spare time, here's my blog: https://codesadhu.medium.com
 - 🌱 I also dabble a bit in competitive coding. Here's my profiles: [CodeChef](https://www.codechef.com/users/codesadhu), [HackerRank](https://www.hackerrank.com/CodeSadhu), [HackerEarth](https://www.hackerearth.com/@patwardhanatharva6)
 - 💬 Ask me about App Development!
 - 📫 How to reach me: [Shoot a mail anytime!](patwardhanatharva6@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: The animal in the Github Logo is an Octo-puss! Get it? :grinning:
 
 <img src = "https://github-readme-stats.vercel.app/api?username=codesadhu&&show_icons=true&title_color=ffffff&icon_color=FCD581&text_color=50B2C0&bg_color=201E1F">
