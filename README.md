@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p align="left">
 
 <a href="https://codesadhu.hashnode.dev//flutter-provider-the-easiest-state-management-approach-one-could-ask-for" title="Flutter Provider — The easiest state management approach one could ask for"><strong>Flutter Provider — The easiest state management approach one could ask for</strong></a>
-<div><strong>26 May 2023</strong></div>
+<div><strong>26 May 2023</strong> | <strong>Updated: 27 May 2023</strong></div>
 <br/> When it comes to building apps using Flutter, creating responsive and beautiful User Interfaces is not all there is. Animations, data flow and state management are core parts that cannot be ignored.
 In this article, we’ll take a look at the state man... </p> <br/> <br/>
 <p align="left">
