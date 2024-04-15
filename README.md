@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently very much into Flutter!
-- 🌱 I’m currently a working as a Software Engineer. I'm passionate about Mobile App development, gaming and just about anything tech in general!
+- 🔭 I’m currently very much into Flutter and Kotlin Multiplatform!
+- 🌱 Currently a working as a Senior Software Engineer. I'm passionate about Mobile App development, gaming and just about anything tech in general!
 - 🖋 I write articles in my spare time, here's my blog: https://codesadhu.medium.com
-- 🌱 I also dabble a bit in competitive coding. Here's my profiles: [CodeChef](https://www.codechef.com/users/codesadhu), [HackerRank](https://www.hackerrank.com/CodeSadhu), [HackerEarth](https://www.hackerearth.com/@patwardhanatharva6)
+- 🌱 I've also dabbled quite a bit in competitive coding. Here's my profiles: [CodeChef](https://www.codechef.com/users/codesadhu), [HackerRank](https://www.hackerrank.com/CodeSadhu), [HackerEarth](https://www.hackerearth.com/@patwardhanatharva6)
 - 💬 Ask me about App Development!
 - 📫 How to reach me: [Shoot a mail anytime!](patwardhanatharva6@gmail.com)
 - ⚡ Fun fact: The animal in the Github Logo is an Octo-puss! Get it? :grinning:
